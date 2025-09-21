@@ -1,5 +1,5 @@
 # _Sample project_
-
+## Using ADC to read data from Potentiometer Method 2
 (See the README.md file in the upper level 'examples' directory for more information about examples.)
 
 This is the simplest buildable example. The example is used by command `idf.py create-project`
